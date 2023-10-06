@@ -4,9 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-langchain = "*"
+langchain = "~=0.0.309"
 black = "*"
 pinecone-client = "*"
+openai = "*"
 
 [dev-packages]
 
