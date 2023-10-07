@@ -8,6 +8,8 @@ langchain = "~=0.0.309"
 black = "*"
 pinecone-client = "*"
 openai = "*"
+tiktoken = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
